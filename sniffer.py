@@ -1,6 +1,3 @@
-#Big Indian, Small Indian
-#! in struct.unpack() and the function itself
-
 import socket 
 import struct 
 import textwrap
